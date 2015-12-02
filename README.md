@@ -23,3 +23,5 @@ song.artist.name
 post.author.name
   # => "Hillary"
 ```
+
+<a href='https://learn.co/lessons/ruby-objects-belong-to-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
