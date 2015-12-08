@@ -17,11 +17,9 @@ song.artist.name
   # => "Beyonce"
 ```
 
-* Posts should have a title and belong to an author. A post should be able to tell you the name of it's author:
+* Posts should have a title and belong to an author. A post should be able to tell you the name of its author:
 
 ```ruby
 post.author.name
   # => "Hillary"
 ```
-
-<a href='https://learn.co/lessons/ruby-objects-belong-to-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
